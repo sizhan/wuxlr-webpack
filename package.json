@@ -1,0 +1,30 @@
+{
+  "name": "wuxlr-webpack",
+  "version": "1.0.0",
+  "description": "common webpack config",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sizhan/wuxlr-webpack.git"
+  },
+  "keywords": [
+    "common",
+    "webpack"
+  ],
+  "author": "wuxlr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sizhan/wuxlr-webpack/issues"
+  },
+  "homepage": "https://github.com/sizhan/wuxlr-webpack#readme",
+  "devDependencies": {
+    "webpack-merge": "^4.2.2"
+  }
+}
